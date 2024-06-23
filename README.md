@@ -34,5 +34,5 @@ The analysis includes:
 
 ### Key Findings
 1. **Engagement Metrics**: Encouraging viewers to like and comment on videos significantly boosts engagement.
-2. **Video Length**: Shorter videos (under 5 minutes) tend to have higher engagement, especially in categories like Music and Entertainment.
-3. **Publish Time**: Most videos are published between 2 PM – 8 PM, suggesting this may be an optimal time for uploading videos.
+2. **Video Length**: Longer videos (under 5 minutes) tend to have higher engagement, especially in categories like Film & Animation and Gaming.
+3. **Publish Time**: Most videos are published between 11 AM – 4 PM, suggesting this may be an optimal time for uploading videos.
